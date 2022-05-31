@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there 🙋‍♂️, I'm Prathmesh Nerle</h1>
 <h3 align="center">I'm a MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathmesh112000
-&label=Profile%20views&color=0e75b6&style=flat" alt="Prathmesh112000
-" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathmesh112000&label=Profile%20views&color=0e75b6&style=flat" alt="Prathmesh112000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prathmesh112000
 " alt="Prathmesh112000
