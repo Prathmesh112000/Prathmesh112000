@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey there 🙋‍♂️, I'm Prathmesh Nerle</h1>
 <h3 align="center">I'm a MERN Stack Developer</h3>
-<h3 align="center">I was always curious to know about how the tech stack works, how the millions of data are transferred every millisecond and many more.</h3>
+<h3 align="center"></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathmesh112000&label=Profile%20views&color=0e75b6&style=flat" alt="Prathmesh112000" /> </p>
